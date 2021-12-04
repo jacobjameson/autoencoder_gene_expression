@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+92859547-3ae4-58a4-966a-21e665177141	29837	aliquot	f34fb02c-fe1d-4f3d-a57c-4413dd6b524c	Item Flagged Low Quality	CenterNotification	2015-12-14T00:00:00	Approved	QC Warning- Expression quality metrics (e.g. 3-prime bias, high duplicate rate, genomic contamination, or low alignment rate) are below average for this file, which should be used with caution for expression analysis. However, other analyses, e.g. mutation and structural variant calling, may still give reliable results.
